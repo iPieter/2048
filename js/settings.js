@@ -27,7 +27,7 @@ $(document).ready(function() {
     var seed = params['seed'];
 
     if (!script) {
-        script = 'http://murgo.github.io/2048/js/ai_example.js';
+        script = 'http://ipieter.github.io/2048/js/ai_1.js';
     }
     if (!seed) {
         seed = new Date().getTime();
