@@ -3,4 +3,4 @@ The purpose of this fork is to have a platform for running AI's for the [2048](h
 
 This is a fork of the fork of [murgo](http://murgo.github.io/2048/)
 
-Run my fork [here!](http://murgo.github.io/2048/)
+Run my fork [here!](http://ipieter.github.io/2048/)
